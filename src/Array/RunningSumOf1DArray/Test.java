@@ -15,6 +15,11 @@ public class Test {
 		testCase4();
 	}
 	
+	/**
+	 * An array is set to null size to see if an exception will be thrown.
+	 * If there is an error, the exception will be thrown and give a 
+	 * description of the error
+	 */
 	public static void testCase1() {
 		try {
 			int[] nums = null;
