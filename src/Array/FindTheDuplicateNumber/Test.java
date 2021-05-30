@@ -1,4 +1,4 @@
-package FindTheDuplicateNumber;
+package Array.FindTheDuplicateNumber;
 
 public class Test {
 
